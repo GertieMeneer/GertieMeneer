@@ -3,7 +3,7 @@
 
 Discord: GertieMeneer#2646
 
-![My Skills](https://skillicons.dev/icons?i=idea,java,py,visualstudio,mysql,github,cs,arduino,raspberrypi&theme=dark&perline=5)
+![My Skills](https://skillicons.dev/icons?i=idea,java,py,visualstudio,github,cs,arduino,raspberrypi&theme=dark&perline=5)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefsk-glitch&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefsk-glitch&theme=synthwave)
