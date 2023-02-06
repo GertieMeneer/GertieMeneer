@@ -11,4 +11,4 @@ Discord: GertieMeneer#2646
   <img src="https://streak-stats.demolab.com/?user=GertieMeneer&theme=synthwave" />
 </p>
 
-<img src="https://visits.roshan.cyou/lguUhXHU5hRi42RjA3ia?label=Profile%20views&shadow=1&shadowOpacity=28&swap=0&labelBGColor=484848&countBGColor=5f1a6a&labelTextColor=FFFFFF&countTextColor=FFFFFF" alt="Visits Counter Badge" height=30px/></a>
+<a href="https://visits.roshan.cyou"><img src="https://visits.roshan.cyou/CvOpD5XojWJlBwQoLIvo?label=Visits%20:D&shadow=1&shadowOpacity=30&swap=0&labelBGColor=484848&countBGColor=2574EA&labelTextColor=FFFFFF&countTextColor=FFFFFF" alt="Visits Counter Badge" height=30px/></a>
