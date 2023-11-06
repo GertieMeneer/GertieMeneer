@@ -22,3 +22,4 @@ Languages:
 - Java
 - HTML
 - CSS
+- SQL
