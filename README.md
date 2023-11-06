@@ -24,3 +24,4 @@ Languages:
 - CSS
 - SQL
 - Arduino (basic C/C++)
+- Python
