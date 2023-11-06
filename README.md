@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gertiemeneer&theme=onedark)](https://github.com/gertiemeneer/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gertiemeneer&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gertiemeneer)
