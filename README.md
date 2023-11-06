@@ -14,6 +14,8 @@ Welcome to my profile!
 
 - 🔭 I’m currently working on no projects! (that changes soon though :D)
 - 🌱 I’m currently learning .NET MAUI (C#)
+- 🎩 I'm currently studying at Avans Hogeschool
+- 📍 I'm located in the Netherlands
 
 Languages:
 - C#
