@@ -1,22 +1,14 @@
 ### Hi there 👋
 Welcome to my profile!
 
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gertiemeneer&theme=transparent&show_icons=true)](https://github.com/gertiemeneer/github-readme-stats)
 
-- 🌱 I’m currently learning .NET MAUI (C#)
+- 🌱 I’m currently learning C
 - 🎩 I'm currently studying at Avans Hogeschool
 - 📍 I'm located in the Netherlands
 
-Languages:
+Languages/skills:
+- C
 - C#
 - Java
 - HTML
@@ -24,3 +16,5 @@ Languages:
 - SQL
 - Arduino (basic C/C++)
 - Python
+- PHP
+- Basic Javascript/Typescript
