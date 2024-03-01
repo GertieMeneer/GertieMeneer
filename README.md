@@ -9,7 +9,7 @@ Languages i know:
 
 <details>
   <summary>App Development</summary>
-  - C# (.net MAUI) <br>
+  - C# (.NET, .NET MAUI) <br>
   - Java <br> 
   - Python
 </details>
