@@ -9,21 +9,21 @@ Languages i know:
 
 <details>
   <summary>App Development</summary>
-  - C# (.net MAUI)
-  - Java
+  - C# (.net MAUI) <br>
+  - Java <br> 
   - Python
 </details>
 
 <details>
   <summary>Web Development</summary>
-  - HTML
-  - CSS
-  - SQL
-  - PHP
+  - HTML <br>
+  - CSS <br>
+  - SQL <br>
+  - PHP <br>
   - Javascript/Typescript (beginner)
 </details>
 
 <details>
   <summary>Embedded Software Development</summary>
-  - C (Arduino, Esp32)
+  - C (Arduino, Esp32) <br>
 </details>
