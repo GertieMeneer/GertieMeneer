@@ -5,20 +5,25 @@ Welcome to my profile!
 - 🎩 I'm studying at Avans Hogeschool | Breda, The Netherlands
 - 📍 I'm located in the Netherlands
 
-Languages/skills:
-- C
-- C#
-- Java
-- HTML
-- CSS
-- SQL
-- Arduino (basic C/C++)
-- Python
-- PHP
-- Basic Javascript/Typescript
+Languages i know:
 
+<details>
+  <summary>App Development</summary>
+  - C# (.net MAUI)
+  - Java
+  - Python
+</details>
 
-<details open>
-  <summary>Hello</summary>
-  World!
+<details>
+  <summary>Web Development</summary>
+  - HTML
+  - CSS
+  - SQL
+  - PHP
+  - Javascript/Typescript (beginner)
+</details>
+
+<details>
+  <summary>Embedded Software Development</summary>
+  - C (Arduino, Esp32)
 </details>
