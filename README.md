@@ -16,3 +16,9 @@ Languages/skills:
 - Python
 - PHP
 - Basic Javascript/Typescript
+
+
+<details open>
+  <summary>Hello</summary>
+  World!
+</details>
