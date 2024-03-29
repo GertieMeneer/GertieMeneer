@@ -21,6 +21,7 @@ Languages i know:
   - SQL <br>
   - PHP <br>
   - Javascript/Typescript (beginner)
+  - React
 </details>
 
 <details>
