@@ -20,7 +20,7 @@ Languages i know:
   - CSS <br>
   - SQL <br>
   - PHP <br>
-  - Javascript/Typescript (beginner)
+  - Javascript/Typescript (beginner) <br>
   - React
 </details>
 
