@@ -1,7 +1,7 @@
 ### Hi there 👋
 Welcome to my profile!
 
-- I’m currently learning C
+- I’m currently learning C++
 - I'm studying at Avans Hogeschool | Breda, The Netherlands
 - I'm located in the Netherlands
 
